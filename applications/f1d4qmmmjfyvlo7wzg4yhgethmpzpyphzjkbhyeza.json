@@ -35,15 +35,25 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-12-04 13:55:19.740190021 UTC",
+    "Validated By": "cryptowhizzard",
     "Active": true,
-    "Updated At": "2024-12-04 13:46:28.584089455 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-12-04 13:55:19.740195417 UTC",
+    "Active Request ID": "3dc57f5d-e0b2-4716-a5b9-e56fc0da8890",
     "On Chain Address": "f1d4qmmmjfyvlo7wzg4yhgethmpzpyphzjkbhyeza",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "3dc57f5d-e0b2-4716-a5b9-e56fc0da8890",
+      "Request Type": "First",
+      "Created At": "2024-12-04 13:55:19.740197909 UTC",
+      "Updated At": "2024-12-04 13:55:19.740199008 UTC",
+      "Active": true,
+      "Allocation Amount": "100TiB",
+      "Signers": []
+    }
+  ]
 }
