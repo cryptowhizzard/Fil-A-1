@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f3qgo3cvunrybfcyyorp2aoxs3kmpog3xq4f6icreieuumdqppvtljpzjqitbcqjagjf2kv25yiajkgdx2ppra",
+  "Issue Number": "9",
+  "Client": {
+    "Name": "Various S3 datasets",
+    "Region": "United States",
+    "Industry": "Other",
+    "Website": "",
+    "Social Media": "",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Brief History of Dcent Investments B.V.:\n\nDcent Investments B.V., headquartered in Heerhugowaard, Netherlands, specializes in innovative solutions within the blockchain and decentralized storage sectors. As a recognized consultant in the field, Dcent has partnered with prominent organizations to enhance data usability and accessibility through decentralized technologies. Their expertise spans data preparation, deal-making, and updating storage and retrieval platforms. Dcent emphasizes fostering partnerships that advance decentralized networks, demonstrating a commitment to innovation and reliability.\n\nProject Summary:\n\nThe OpenPanda project involves improving network usability for decentralized storage systems. Key tasks include preparing datasets, sealing and making deals with storage providers across regions, and updating platforms like OpenPanda.io with accessible download links. The milestones ensure smooth data retrieval and indexing, with deliverables including demo videos, blog posts, and platform updates. The project aims to showcase the robust capabilities of decentralized networks for data management, highlighting their retrievability and proof of spacetime.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "Various S3 opendata registry dataset's to visible in Openpanda",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "- Singularity\n- Inhouse tooling for deal distribution\n- Curio ( for the dealmaking part )\n- Boost",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "-",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f03493414 ( Dcent first Replica ) - Fast Retrievable\n\nAll deals and storage requirements will be managed and executed in accordance with the objectives and guidelines of the OpenPanda project.",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes. We will update this project soon."
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "7.5PiB",
+    "Single Size Dataset": "2500TiB",
+    "Replicas": 3,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-03-07 11:09:38.485525618 UTC",
+    "Validated By": "cryptowhizzard",
+    "Active": true,
+    "Updated At": "2025-03-07 11:09:38.485522190 UTC",
+    "Active Request ID": "fe6f840a-b18c-43a3-ba70-f18b14db0d4a",
+    "On Chain Address": "f3qgo3cvunrybfcyyorp2aoxs3kmpog3xq4f6icreieuumdqppvtljpzjqitbcqjagjf2kv25yiajkgdx2ppra",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "fe6f840a-b18c-43a3-ba70-f18b14db0d4a",
+      "Request Type": "First",
+      "Created At": "2025-03-07 11:08:03.824031715 UTC",
+      "Updated At": "2025-03-07 11:08:03.824032571 UTC",
+      "Active": false,
+      "Allocation Amount": "250 TiB",
+      "Signers": [
+        {
+          "Github Username": "cryptowhizzard",
+          "Signing Address": "f1xk4bsgn3hjobod4hoovtt4iuivgocwhduzwabxa",
+          "Created At": "2025-03-07 11:09:36.674000000 UTC",
+          "Message CID": "bafy2bzacecro3pp5asjjbvs4u46dbpnivibfi2d44fc3gywlwtq4hxtftsme2"
+        }
+      ]
+    }
+  ]
+}
