@@ -35,7 +35,7 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-05-05 10:25:39.425121596 UTC",
     "Validated By": "cryptowhizzard",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "5b904191-93a4-4cfb-a509-991db4f8da88",
     "On Chain Address": "f3qgo3cvunrybfcyyorp2aoxs3kmpog3xq4f6icreieuumdqppvtljpzjqitbcqjagjf2kv25yiajkgdx2ppra",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
